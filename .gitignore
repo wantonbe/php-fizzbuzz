@@ -1,0 +1,5 @@
+# dependencies
+/vendor/
+
+# testing
+.phpunit.result.cache
